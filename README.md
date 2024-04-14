@@ -12,11 +12,11 @@ Este projeto é uma aplicação Java com Spring que simula o funcionamento de um
 
 O projeto possui os seguintes endpoints:
 
-- `GET /veiculos`: Retorna a lista de todos os veículos disponíveis na concessionária.
-- `GET /veiculos/{id}`: Retorna as informações de um veículo específico, com base no ID fornecido.
-- `POST /veiculos`: Adiciona um novo veículo à concessionária.
-- `PUT /veiculos/{id}`: Atualiza as informações de um veículo existente, com base no ID fornecido.
-- `DELETE /veiculos/{id}`: Remove um veículo da concessionária, com base no ID fornecido.
+- `GET /carros`: Retorna a lista de todos os veículos disponíveis na concessionária.
+- `GET /carros/{id}`: Retorna as informações de um veículo específico, com base no ID fornecido.
+- `POST /carros`: Adiciona um novo veículo à concessionária.
+- `PUT /carros/{id}`: Atualiza as informações de um veículo existente, com base no ID fornecido.
+- `DELETE /carros/{id}`: Remove um veículo da concessionária, com base no ID fornecido.
 
 ## Tratativas de Exceções
 
